@@ -14,7 +14,7 @@ sudo usermod -aG sudo serversks
 
 Connect to the serversks session and paste the content of all the repo :
 su - serversks
-cp ~/Crypto2/ /home/serversks/
+cp <PreviousDirectoryLocation> /home/serversks/
 
 Launch the server (The server keys will be generated once at the first launch):
 sudo ./app.py
