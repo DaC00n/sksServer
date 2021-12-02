@@ -1,6 +1,3 @@
-# sksServer
-Python Script to deploy SKS Server
-
 Instructions to launch the SKS Server
 
 Install the dependencies :
